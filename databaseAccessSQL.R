@@ -4,6 +4,9 @@
 # each of these queries uses a separate "syntax" for accessing the database 
 # the end of the script include information about missingness 
 # note that these are all just examples and may not be the best way to do things 
+# author J.Kueper
+# November 2020
+
 
 # libraries needed to connect to the database
 # might need to install them (I forget if one of these is deprecated now/merged into maria)
